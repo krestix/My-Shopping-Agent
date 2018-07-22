@@ -1,0 +1,2 @@
+# My-Shopping-Agent
+My shopping agent is a system that learns the user.  The system will offer products according to user buying habits and support users with nutritional limitations. It will also assure that he is well stocked according to his past shopping patterns, and will assure him a peace of mind when it comes to stocking up his household. The system will offer a basic products list for a new user, and the user will change it based on his needs. It will help the agent gather information about this user.
